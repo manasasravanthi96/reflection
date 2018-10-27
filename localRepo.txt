@@ -1,0 +1,2 @@
+//It is local repo made to know how to push the data from local repo to remote repo
+//to know how to work in git i am doing this
